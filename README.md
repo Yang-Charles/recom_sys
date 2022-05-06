@@ -1,2 +1,3 @@
 # recom_sys
-recommand system
+
+Base DSSM movie recommand movie 
