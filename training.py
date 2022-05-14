@@ -88,8 +88,6 @@ class DssmModel():
         print("df", df.head())
         return df
 
-    # num_users, num_movies, num_genders, num_ages, num_occupations, num_genres
-
     # # #### 评分的归一化
     # def rating_deal(self, df):
     #     min_rating = df["Rating"].min()
